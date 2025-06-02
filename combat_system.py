@@ -991,4 +991,4 @@ if __name__ == "__main__":
     
     # Display combat log
     print("\nCombat Log:")
-    print(combat.get_combat_log())
+    print(combat.get_combat_log()
